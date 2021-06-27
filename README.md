@@ -3,7 +3,7 @@
 ### see my [website](https://hummusbird.co.uk)
 
 
-## projects
+## stuff
 
 [powercord-crypto](https://github.com/hummusbird/powercord-crypto) // cryptocurrency plugin for powercord
 
