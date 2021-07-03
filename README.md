@@ -12,3 +12,6 @@
 [glass-dark](https://github.com/hummusbird/glass-dark) // glasscord theme for powercord
 
 [illiterate](https://github.com/hummusbird/illiterate) // illterate
+
+[smacked](https://github.com/hummusbird/smacked) // discord modbot
+
