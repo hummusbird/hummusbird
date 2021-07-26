@@ -15,3 +15,4 @@
 
 [smacked](https://github.com/hummusbird/smacked) // discord modbot
 
+[domains](https://github.com/hummusbird/domains) // domains & uses
