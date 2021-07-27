@@ -13,6 +13,6 @@
 
 [illiterate](https://github.com/hummusbird/illiterate) // illterate
 
-[smacked](https://github.com/hummusbird/smacked) // discord modbot
+[clapped](https://github.com/hummusbird/clapped) // discord modbot
 
 [domains](https://github.com/hummusbird/domains) // domains & uses
