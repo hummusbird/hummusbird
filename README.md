@@ -5,6 +5,8 @@
 
 ## stuff
 
+[wallpaperChanger](https://github.com/hummusbird/wallpaperChanger) // simple C# timed wallpaper switcher
+
 [powercord-crypto](https://github.com/hummusbird/powercord-crypto) // cryptocurrency plugin for powercord
 
 [glasscord-injector](https://github.com/hummusbird/glasscord-injector) // injects glasscord for powercord
