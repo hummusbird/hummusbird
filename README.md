@@ -5,6 +5,8 @@
 
 ## stuff
 
+[CLI-C](https://github.com/hummusbird/clic) // C# chat messaging client
+
 [wallpaperChanger](https://github.com/hummusbird/wallpaperChanger) // simple C# timed wallpaper switcher
 
 [powercord-crypto](https://github.com/hummusbird/powercord-crypto) // cryptocurrency plugin for powercord
