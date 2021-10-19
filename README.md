@@ -19,4 +19,6 @@
 
 [clapped](https://github.com/hummusbird/clapped) // discord modbot
 
+[website](https://github.com/hummusbird/website) // website
+
 [domains](https://github.com/hummusbird/domains) // domains & uses
