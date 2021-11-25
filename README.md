@@ -22,3 +22,5 @@
 [website](https://github.com/hummusbird/website) // website
 
 [domains](https://github.com/hummusbird/domains) // domains & uses
+
+[cfg](https://github.com/hummusbird/cfg) // csgo autoexec + cfg
