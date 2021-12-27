@@ -19,6 +19,8 @@
 
 [clapped](https://github.com/hummusbird/clapped) // discord modbot
 
+[northstar-bot](https://github.com/hummusbird/northstar-bot) // 
+
 [website](https://github.com/hummusbird/website) // website
 
 [domains](https://github.com/hummusbird/domains) // domains & uses
