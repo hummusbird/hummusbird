@@ -19,7 +19,7 @@
 
 [clapped](https://github.com/hummusbird/clapped) // discord modbot
 
-[northstar-bot](https://github.com/hummusbird/northstar-bot) // 
+[northstar-bot](https://github.com/hummusbird/northstar-bot) // bot for northstar.tf
 
 [website](https://github.com/hummusbird/website) // website
 
