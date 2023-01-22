@@ -1,6 +1,6 @@
 ```diff
-- @hummusbirb // hummusbird // 18 UK 
+- @hummusbirb // hummusbird // 19 UK
 ! birb.cc // counterstrike.trade 
-+ studying computer science 
++ currently a desktop & systems technician
 + looking for cybersec apprenticeships 
 ```
