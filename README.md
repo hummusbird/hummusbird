@@ -1,6 +1,6 @@
 ```diff
-- @miaowing // hummusbird // 20 UK 
-! birb.cc // miaow.ing 
+- maeve // @miaowing // 20 UK 
+! les.bi // miaow.ing 
 + currently a desktop & systems technician 
-+ looking for cybersec apprenticeships 
++ looking for overseas software & cybersec roles
 ```
